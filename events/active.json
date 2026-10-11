@@ -1,0 +1,54 @@
+{
+  "slug": "navajyothi-events-and-wedding-planner-kollam",
+  "name": "Navajyothi Events & Wedding Planner",
+  "shortName": "Navajyothi",
+  "descriptor": "Event Management",
+  "address": "Post office junction, Bus Stop, Paravur - Chathannoor Rd, Nedungolam, Paravoor, Keralam 691334",
+  "area": "Paravoor",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691334",
+  "geo": {
+    "lat": 8.8365601,
+    "lng": 76.6853632
+  },
+  "mapsLink": "https://maps.google.com/?cid=2858982422889498",
+  "phone": "+91 99958 88732",
+  "whatsapp": "919995888732",
+  "hours": "Open 9 am – 11 pm · all days",
+  "opens": "09:00",
+  "closes": "23:00",
+  "rating": 4.9,
+  "reviewCount": 56,
+  "reviews": [
+    {
+      "name": "Nabeel",
+      "rating": 5,
+      "quote": "One of the best event management companies in and around the town with affordable prices. No matter how limited the space is..they will turn it into a paradise. Really impressed on their works."
+    },
+    {
+      "name": "Nishitha Mohandas",
+      "rating": 5,
+      "quote": "Tasty food. Neat and tidy packing. Good customer service. Prompt delivery. Reasonable price. Go for it 👍👍👍"
+    },
+    {
+      "name": "LAKSHMI PRADEEP",
+      "rating": 5,
+      "quote": "Navajyothi is one of the best catering and event management team.They work according to our interests."
+    },
+    {
+      "name": "anu anuzz",
+      "rating": 5,
+      "quote": "Best catering and event management team for professional and quality services."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://navajyothi-events-and-wedding-plann.vercel.app"
+}
